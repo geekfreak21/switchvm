@@ -13,7 +13,7 @@ This project consists of two main components: `webhook.py` and `switch_vm.sh`. T
 ### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/vm-control-webhook.git
+   git clone https://github.com/geekfreak21/vm-control-webhook.git
    cd vm-control-webhook
    ```
 
