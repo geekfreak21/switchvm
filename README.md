@@ -1,7 +1,3 @@
-Certainly! Below is a template for a README file for your GitHub repository containing `webhook.py` and `switch_vm.sh`. This README provides an overview of the project, installation instructions, usage details, and additional notes. You can adjust the contents according to your specific project details.
-
----
-
 # VM Control Webhook
 
 ## Overview
