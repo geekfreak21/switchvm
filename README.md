@@ -58,17 +58,9 @@ The `switch_vm.sh` script is triggered by the webhook and handles the starting a
 ## Contributing
 Contributions to this project are welcome! Please fork the repository and submit pull requests with your improvements.
 
-## License
-[Your chosen license]
 
 ## Contact
-For support or queries, contact [Your Contact Information].
+For support or queries, contact elhamid.essam@gmail.com.
 
 ---
 
-### Notes:
-
-- Replace `[Your chosen license]` with the actual license you are using for this project (e.g., MIT, GPL).
-- Fill `[Your Contact Information]` with your preferred contact method.
-- Update the GitHub repository URL `https://github.com/yourusername/vm-control-webhook.git` with your actual repository URL.
-- Customize any other specific details to fit your project's setup and features.
