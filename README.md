@@ -24,7 +24,7 @@ This project consists of two main components: `webhook.py` and `switch_vm.sh`. T
 
 3. **Make the Scripts Executable**:
    ```bash
-   chmod +x webhook.py switch_vm.sh
+   chmod +x switch_vm.sh
    ```
 
 ## Usage
